@@ -1,0 +1,21 @@
+# Node
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Java / Maven
+target/
+student/target/
+student/.mvn/wrapper/maven-wrapper.jar
+
+# IDE & Editor
+.idea/
+student/.idea/
+.vscode/
+*.iml
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log
